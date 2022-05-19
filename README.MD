@@ -3,7 +3,7 @@
 
 The idea of this project is based on giving information to travelers or those who are familiar with the country from knowing the simple things about each country, including the country’s weather if it is cold and so on.. and also knowing the time difference between them and the desired country, and also Find out the best place to visit
 
-# The site is based on Google search, but the idea is to integrate all of this into just one click
+The site is based on Google search, but the idea is to integrate all of this into just one click
 
 # requirements
  1- pip install requests_html
